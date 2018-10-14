@@ -1,2 +1,2 @@
 # hackerrank
-Python scripts I wrote to solve Hacker Rank exercises
+The python3 scripts I wrote to solve Hacker Rank exercises
